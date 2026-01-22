@@ -1,0 +1,940 @@
+<!-- PREMIUM MULTI-PAGE SITE STRUCTURE -->
+
+<!-- FILE: index.html (Homepage) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Premium Modified Shipping Containers Australia | Engineered Builds</title>
+  <meta name="description" content="High-end modified shipping containers engineered for Australian conditions. Commercial, residential and industrial builds backed by 10+ years experience." />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900">
+
+<header class="border-b">
+  <div class="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
+    <div class="text-2xl font-bold tracking-tight">AUS Container Projects</div>
+    <nav class="space-x-8 text-sm font-semibold">
+      <a href="index.html">Home</a>
+      <a href="solutions.html">Solutions</a>
+      <a href="process.html">Process</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html" class="text-blue-700">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-7xl mx-auto px-6 py-32">
+    <h1 class="text-5xl font-bold max-w-3xl leading-tight">
+      Premium Modified Shipping Containers
+      <span class="block text-slate-300">Engineered. Compliant. Built to Last.</span>
+    </h1>
+    <p class="mt-8 text-xl max-w-2xl text-slate-300">
+      We design and deliver high-quality container buildings for commercial, industrial and residential use across Australia. Backed by over a decade of real-world fabrication experience.
+    </p>
+    <a href="contact.html" class="inline-block mt-10 bg-blue-700 px-10 py-5 rounded-xl font-semibold">Request Consultation</a>
+  </div>
+</section>
+
+<section class="max-w-7xl mx-auto px-6 py-24">
+  <div class="grid md:grid-cols-2 gap-16 items-center">
+    <div>
+      <h2 class="text-3xl font-bold mb-6">A Hybrid Approach — Built for Serious Projects</h2>
+      <p class="text-lg mb-6">
+        We work across commercial, industrial and residential sectors, with a strong focus on projects that demand durability, compliance and long-term performance.
+      </p>
+      <p class="text-lg">
+        From site offices and remote infrastructure to high-quality residential and retail builds, our systems and processes are designed to scale without compromising quality.
+      </p>
+    </div>
+    <div class="bg-slate-100 rounded-2xl p-10">
+      <ul class="space-y-4 text-lg">
+        <li>• Commercial & Industrial Container Buildings</li>
+        <li>• Residential & Architectural Applications</li>
+        <li>• Mining, Construction & Infrastructure</li>
+        <li>• Councils, Developers & Private Clients</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<footer class="border-t py-8 text-center text-sm text-slate-500">
+  © 2026 AUS Container Projects · Commercial, Industrial & Residential · Australia Wide
+</footer>
+</body>
+</html>
+
+
+<!-- FILE: solutions.html (Solutions Page) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Container Solutions | Commercial, Industrial & Residential</title>
+  <meta name="description" content="Premium modified shipping container solutions for commercial, industrial and residential applications across Australia." />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900">
+
+<header class="border-b">
+  <div class="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
+    <div class="text-2xl font-bold">AUS Container Projects</div>
+    <nav class="space-x-8 text-sm font-semibold">
+      <a href="index.html">Home</a>
+      <a href="solutions.html" class="text-blue-700">Solutions</a>
+      <a href="process.html">Process</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-7xl mx-auto px-6 py-24">
+    <h1 class="text-5xl font-bold mb-6">Container Solutions Built for Real-World Use</h1>
+    <p class="text-xl max-w-3xl text-slate-300">
+      We deliver premium modified shipping container solutions across commercial, industrial and residential sectors — with systems and experience to handle complex requirements, compliance and long-term performance.
+    </p>
+  </div>
+</section>
+
+<section class="max-w-7xl mx-auto px-6 py-24">
+  <div class="max-w-3xl mb-20">
+    <h2 class="text-3xl font-bold mb-6">One Builder. Multiple Applications.</h2>
+    <p class="text-lg">
+      Our container buildings are not based on fixed packages. Every solution is designed around how the space will be used, where it will be installed, and what standards it must meet. This approach allows us to work across multiple sectors without compromising quality or compliance.
+    </p>
+  </div>
+
+  <!-- Commercial -->
+  <div class="grid md:grid-cols-2 gap-16 mb-32 items-center">
+    <div>
+      <h3 class="text-2xl font-bold mb-4">Commercial Container Buildings</h3>
+      <p class="mb-6 text-lg">
+        We design and fabricate commercial-grade container buildings for businesses that require fast deployment, durability and professional presentation.
+      </p>
+      <ul class="space-y-3 text-lg">
+        <li>• Site offices and amenities</li>
+        <li>• Sales offices and display suites</li>
+        <li>• Education and training facilities</li>
+        <li>• Healthcare and community buildings</li>
+      </ul>
+      <p class="mt-6">
+        All commercial builds are engineered to meet NCC requirements, local council conditions and relevant wind ratings.
+      </p>
+    </div>
+    <div class="bg-slate-100 rounded-2xl p-10">
+      <p class="font-semibold mb-4">Best suited for:</p>
+      <p>Developers, councils, education providers and private enterprises seeking reliable, compliant structures.</p>
+    </div>
+  </div>
+
+  <!-- Industrial -->
+  <div class="grid md:grid-cols-2 gap-16 mb-32 items-center">
+    <div class="md:order-2">
+      <h3 class="text-2xl font-bold mb-4">Industrial & Remote Site Containers</h3>
+      <p class="mb-6 text-lg">
+        Industrial environments demand container solutions that can withstand heavy use, harsh conditions and strict operational requirements.
+      </p>
+      <ul class="space-y-3 text-lg">
+        <li>• Mining and remote accommodation units</li>
+        <li>• Workshops and plant rooms</li>
+        <li>• Control rooms and switch rooms</li>
+        <li>• Secure storage and equipment housing</li>
+      </ul>
+      <p class="mt-6">
+        These builds prioritise structural integrity, transportability, safety and ease of maintenance.
+      </p>
+    </div>
+    <div class="bg-slate-100 rounded-2xl p-10 md:order-1">
+      <p class="font-semibold mb-4">Designed for:</p>
+      <p>Mining, construction, infrastructure and industrial operators across Australia.</p>
+    </div>
+  </div>
+
+  <!-- Residential -->
+  <div class="grid md:grid-cols-2 gap-16 items-center">
+    <div>
+      <h3 class="text-2xl font-bold mb-4">Residential & Architectural Containers</h3>
+      <p class="mb-6 text-lg">
+        Our residential container solutions combine architectural design with commercial-grade construction standards.
+      </p>
+      <ul class="space-y-3 text-lg">
+        <li>• Container homes and secondary dwellings</li>
+        <li>• Studios, offices and guest accommodation</li>
+        <li>• Modular multi-container layouts</li>
+      </ul>
+      <p class="mt-6">
+        We work with engineers and designers to ensure residential builds meet approval pathways while delivering comfort, insulation and longevity.
+      </p>
+    </div>
+    <div class="bg-slate-100 rounded-2xl p-10">
+      <p class="font-semibold mb-4">Ideal for:</p>
+      <p>Homeowners and designers seeking a premium alternative to traditional construction.</p>
+    </div>
+  </div>
+</section>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-4xl mx-auto px-6 py-24 text-center">
+    <h2 class="text-3xl font-bold mb-6">Not Sure Which Solution Fits?</h2>
+    <p class="text-lg text-slate-300 mb-10">
+      We guide clients through the options based on use case, location, compliance and budget — before fabrication begins.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-10 py-5 rounded-xl font-semibold">Book a Consultation</a>
+  </div>
+</section>
+
+<footer class="border-t py-8 text-center text-sm text-slate-500">
+  © 2026 AUS Container Projects · Australia Wide
+</footer>
+</body>
+</html>
+
+
+<!-- FILE: faq.html (Frequently Asked Questions) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FAQ | Modified Shipping Containers Australia</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50">
+<section class="max-w-4xl mx-auto px-6 py-20">
+  <h1 class="text-4xl font-bold mb-12">Frequently Asked Questions</h1>
+
+  <div class="space-y-8">
+    <div>
+      <h3 class="font-semibold text-lg">Are your containers council compliant?</h3>
+      <p class="mt-2">Yes. All builds can be engineered to meet NCC requirements, wind ratings and local council standards depending on location and use.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-lg">Do you use new or used containers?</h3>
+      <p class="mt-2">We offer both new (one-trip) and carefully selected used containers depending on project requirements and budget.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-lg">Can you deliver Australia-wide?</h3>
+      <p class="mt-2">Yes. We coordinate transport and installation across metropolitan, regional and remote locations.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-lg">How are you different from other container companies?</h3>
+      <p class="mt-2">We are builders first — not resellers. Our experience comes from years of fabrication, modification and real site delivery.</p>
+    </div>
+  </div>
+</section>
+</body>
+</html>
+
+
+<!-- FILE: landing-container-site-offices.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Container Site Offices Australia | Engineered & Compliant</title>
+  <meta name="description" content="Premium container site offices designed for construction, infrastructure and industrial projects across Australia. Engineered, compliant and built to last." />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900">
+
+<header class="border-b">
+  <div class="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
+    <div class="text-2xl font-bold">AUS Container Projects</div>
+    <nav class="space-x-8 text-sm font-semibold">
+      <a href="index.html">Home</a>
+      <a href="solutions.html">Solutions</a>
+      <a href="process.html">Process</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-7xl mx-auto px-6 py-28">
+    <h1 class="text-5xl font-bold max-w-4xl leading-tight mb-6">
+      Container Site Offices Built for Australian Projects
+    </h1>
+    <p class="text-xl max-w-3xl text-slate-300 mb-10">
+      We design and fabricate high-quality container site offices for construction, infrastructure and industrial sites across Australia — engineered for compliance, durability and long-term use.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-10 py-5 rounded-xl font-semibold">Request a Site Office Consultation</a>
+  </div>
+</section>
+
+<section class="max-w-7xl mx-auto px-6 py-24">
+  <div class="max-w-3xl mb-20">
+    <h2 class="text-3xl font-bold mb-6">Purpose-Built Site Offices — Not Generic Containers</h2>
+    <p class="text-lg">
+      Our container site offices are designed specifically for real-world site conditions. Unlike off-the-shelf units, each build is engineered to meet Australian standards, withstand transport and remain functional across the life of your project.
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-3 gap-12 mb-32">
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Engineered & Compliant</h3>
+      <p>Designed to meet NCC requirements, wind ratings and site-specific compliance conditions.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Built for Harsh Environments</h3>
+      <p>Suitable for metropolitan, regional and remote sites with durable materials and robust construction.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Configured to Your Needs</h3>
+      <p>Layouts, finishes and inclusions tailored to how your team actually works on site.</p>
+    </div>
+  </div>
+
+  <div class="grid md:grid-cols-2 gap-16 items-center mb-32">
+    <div>
+      <h3 class="text-2xl font-bold mb-6">Typical Site Office Configurations</h3>
+      <ul class="space-y-4 text-lg">
+        <li>• Single and multi-container offices</li>
+        <li>• Open-plan workspaces</li>
+        <li>• Meeting rooms and site sheds</li>
+        <li>• Lunch rooms and amenities</li>
+        <li>• Secure document and equipment storage</li>
+      </ul>
+      <p class="mt-6">
+        Units can be supplied as standalone offices or combined into larger modular complexes.
+      </p>
+    </div>
+    <div class="bg-slate-100 rounded-2xl p-10">
+      <h4 class="font-semibold mb-4">Common Inclusions</h4>
+      <ul class="space-y-3">
+        <li>• Insulation & internal lining</li>
+        <li>• Electrical, lighting & data</li>
+        <li>• HVAC systems</li>
+        <li>• Windows, doors & security</li>
+        <li>• External stairs, decks & awnings</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="max-w-4xl mb-32">
+    <h3 class="text-2xl font-bold mb-6">Designed for Construction & Infrastructure Projects</h3>
+    <p class="text-lg mb-6">
+      We work closely with builders, project managers and contractors to ensure site offices integrate seamlessly into project timelines and site logistics.
+    </p>
+    <p class="text-lg">
+      From transport and lifting considerations to placement, footings and future relocation, our approach reduces disruption and improves on-site efficiency.
+    </p>
+  </div>
+</section>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-4xl mx-auto px-6 py-24 text-center">
+    <h2 class="text-3xl font-bold mb-6">Speak With a Container Site Office Specialist</h2>
+    <p class="text-lg text-slate-300 mb-10">
+      Whether you need a single site office or a multi-unit complex, we can advise on design, compliance and delivery.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-10 py-5 rounded-xl font-semibold">Book a Consultation</a>
+  </div>
+</section>
+
+<footer class="border-t py-8 text-center text-sm text-slate-500">
+  © 2026 AUS Container Projects · Australia Wide
+</footer>
+</body>
+</html>
+
+
+<!-- FILE: landing-mining-remote-site-containers.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mining & Remote Site Containers Australia | Heavy-Duty Modular Buildings</title>
+  <meta name="description" content="Heavy-duty container buildings for mining and remote sites across Australia. Engineered for harsh environments, compliance and long-term deployment." />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900">
+
+<header class="border-b">
+  <div class="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
+    <div class="text-2xl font-bold">AUS Container Projects</div>
+    <nav class="space-x-8 text-sm font-semibold">
+      <a href="index.html">Home</a>
+      <a href="solutions.html">Solutions</a>
+      <a href="process.html">Process</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-7xl mx-auto px-6 py-28">
+    <h1 class="text-5xl font-bold max-w-4xl leading-tight mb-6">
+      Mining & Remote Site Container Buildings
+    </h1>
+    <p class="text-xl max-w-3xl text-slate-300 mb-10">
+      We design and fabricate heavy-duty container buildings for mining, resources and remote infrastructure projects across Australia — built to perform in extreme conditions and demanding operational environments.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-10 py-5 rounded-xl font-semibold">Discuss Your Project</a>
+  </div>
+</section>
+
+<section class="max-w-7xl mx-auto px-6 py-24">
+  <div class="max-w-3xl mb-20">
+    <h2 class="text-3xl font-bold mb-6">Built for Harsh Conditions & Critical Operations</h2>
+    <p class="text-lg">
+      Mining and remote projects require infrastructure that can withstand extreme climates, heavy use and logistical challenges. Our container solutions are engineered with durability, safety and long-term deployment in mind — not short-term hire.
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-3 gap-12 mb-32">
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Heavy-Duty Construction</h3>
+      <p>Structural modifications designed to handle transport, lifting and extended service life in remote locations.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Engineered Compliance</h3>
+      <p>Designed to meet NCC requirements, wind ratings and site-specific engineering standards.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Operational Reliability</h3>
+      <p>Layouts and systems designed for ease of maintenance, safety and continuous operation.</p>
+    </div>
+  </div>
+
+  <div class="grid md:grid-cols-2 gap-16 items-center mb-32">
+    <div>
+      <h3 class="text-2xl font-bold mb-6">Typical Mining & Remote Site Applications</h3>
+      <ul class="space-y-4 text-lg">
+        <li>• Site offices and administration buildings</li>
+        <li>• Control rooms and communications hubs</li>
+        <li>• Crib rooms and amenities</li>
+        <li>• Workshops and plant rooms</li>
+        <li>• Secure storage and hazardous goods containers</li>
+      </ul>
+      <p class="mt-6">
+        Container units can be deployed as standalone structures or combined into modular facilities.
+      </p>
+    </div>
+    <div class="bg-slate-100 rounded-2xl p-10">
+      <h4 class="font-semibold mb-4">Design Considerations</h4>
+      <ul class="space-y-3">
+        <li>• Extreme heat and climate control</li>
+        <li>• Dust, corrosion and environmental exposure</li>
+        <li>• Transport, cranage and site access</li>
+        <li>• Safety systems and compliance</li>
+        <li>• Long-term relocation or reuse</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="max-w-4xl mb-32">
+    <h3 class="text-2xl font-bold mb-6">Designed for Remote Deployment</h3>
+    <p class="text-lg mb-6">
+      We understand the logistical challenges of remote Australian sites. Our container buildings are designed to be transported efficiently, installed safely and remain operational with minimal ongoing intervention.
+    </p>
+    <p class="text-lg">
+      From pre-installation planning through to delivery coordination, our process reduces downtime and risk on site.
+    </p>
+  </div>
+</section>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-4xl mx-auto px-6 py-24 text-center">
+    <h2 class="text-3xl font-bold mb-6">Talk to a Mining & Remote Infrastructure Specialist</h2>
+    <p class="text-lg text-slate-300 mb-10">
+      Whether you need a single unit or a multi-building deployment, we can advise on design, compliance and delivery for remote operations.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-10 py-5 rounded-xl font-semibold">Book a Consultation</a>
+  </div>
+</section>
+
+<footer class="border-t py-8 text-center text-sm text-slate-500">
+  © 2026 AUS Container Projects · Australia Wide
+</footer>
+</body>
+</html>
+
+
+<!-- FILE: landing-industrial-workshops.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Industrial Container Solutions Australia | Custom Built Facilities</title>
+  <meta name="description" content="Custom-built industrial container solutions designed to client briefs. Workshops, facilities and specialised environments built for Australian conditions." />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900">
+
+<header class="border-b">
+  <div class="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
+    <div class="text-2xl font-bold">AUS Container Projects</div>
+    <nav class="space-x-8 text-sm font-semibold">
+      <a href="index.html">Home</a>
+      <a href="solutions.html">Solutions</a>
+      <a href="process.html">Process</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-7xl mx-auto px-6 py-28">
+    <h1 class="text-5xl font-bold max-w-4xl leading-tight mb-6">
+      Industrial Container Solutions
+    </h1>
+    <p class="text-xl max-w-3xl text-slate-300 mb-10">
+      Purpose-built container facilities designed and fabricated to suit specific industrial, commercial and operational requirements across Australia.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-10 py-5 rounded-xl font-semibold">Discuss Your Requirements</a>
+  </div>
+</section>
+
+<section class="max-w-7xl mx-auto px-6 py-24">
+  <div class="max-w-3xl mb-20">
+    <h2 class="text-3xl font-bold mb-6">Built to Brief, Not from a Catalogue</h2>
+    <p class="text-lg">
+      Our industrial container solutions are developed from the ground up to suit the intended use, environment and operational demands. We do not offer standard models or pre-packaged layouts — every project is defined by the client brief and engineered accordingly.
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-3 gap-12 mb-32">
+    <div>
+      <h3 class="font-semibold text-xl mb-4">One Stop Capability</h3>
+      <p>Design, engineering, fabrication and delivery handled under one roof for consistency and control.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Industrial-Grade Construction</h3>
+      <p>Structural modifications and finishes suitable for demanding operational environments.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Designed for Longevity</h3>
+      <p>Built for long-term use, repeat access and ongoing operation — not temporary hire.</p>
+    </div>
+  </div>
+
+  <div class="grid md:grid-cols-2 gap-16 items-center mb-32">
+    <div>
+      <h3 class="text-2xl font-bold mb-6">Typical Applications</h3>
+      <ul class="space-y-4 text-lg">
+        <li>• Industrial workshops and maintenance facilities</li>
+        <li>• Plant rooms and equipment enclosures</li>
+        <li>• Site offices and operational hubs</li>
+        <li>• Training, safety and testing environments</li>
+        <li>• Specialised commercial or technical spaces</li>
+      </ul>
+      <p class="mt-6">
+        These examples are indicative only — each container solution is tailored to its intended use.
+      </p>
+    </div>
+    <div class="bg-slate-100 rounded-2xl p-10">
+      <h4 class="font-semibold mb-4">Design Capabilities</h4>
+      <ul class="space-y-3">
+        <li>• Structural modifications and reinforcements</li>
+        <li>• Internal layouts, partitions and fit-outs</li>
+        <li>• Electrical, plumbing and mechanical services</li>
+        <li>• Access, workflow and material handling</li>
+        <li>• Transport, lifting and installation planning</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="max-w-4xl mb-32">
+    <h3 class="text-2xl font-bold mb-6">Compliance, Safety & Risk Management</h3>
+    <p class="text-lg mb-6">
+      Compliance and safety considerations are addressed from the earliest stages of each project. This includes structural integrity, fire safety, access requirements and alignment with relevant NCC and site-specific standards.
+    </p>
+    <p class="text-lg">
+      Our approach reduces downstream risk, minimises redesign and supports smoother approvals and installation.
+    </p>
+  </div>
+
+  <div class="max-w-4xl">
+    <h3 class="text-2xl font-bold mb-6">How Projects Are Delivered</h3>
+    <ol class="space-y-3 text-lg list-decimal list-inside">
+      <li>Initial brief and feasibility discussion</li>
+      <li>Design development and engineering</li>
+      <li>Fabrication and quality control</li>
+      <li>Delivery, installation and handover</li>
+    </ol>
+  </div>
+</section>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-4xl mx-auto px-6 py-24 text-center">
+    <h2 class="text-3xl font-bold mb-6">Talk to a Container Specialist</h2>
+    <p class="text-lg text-slate-300 mb-10">
+      If you have a specific requirement or concept in mind, we can help shape and deliver a container solution that fits your operational needs.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-10 py-5 rounded-xl font-semibold">Start a Conversation</a>
+  </div>
+</section>
+
+<footer class="border-t py-8 text-center text-sm text-slate-500">
+  © 2026 AUS Container Projects · Australia Wide
+</footer>
+</body>
+</html>
+
+
+<!-- FILE: landing-container-kitchens-cafes.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Container Kitchens & Cafes Australia | Commercial Food-Grade Builds</title>
+  <meta name="description" content="Premium modified container kitchens and cafes designed for Australian hospitality operators. Food-grade, compliant and built for commercial use." />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900">
+
+<header class="border-b">
+  <div class="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
+    <div class="text-2xl font-bold">AUS Container Projects</div>
+    <nav class="space-x-8 text-sm font-semibold">
+      <a href="index.html">Home</a>
+      <a href="solutions.html">Solutions</a>
+      <a href="process.html">Process</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-7xl mx-auto px-6 py-28">
+    <h1 class="text-5xl font-bold max-w-4xl leading-tight mb-6">
+      Modified Container Kitchens & Cafes
+    </h1>
+    <p class="text-xl max-w-3xl text-slate-300 mb-10">
+      We design and build high-quality container kitchens and cafes for commercial hospitality use — engineered for food safety, compliance and long-term operation across Australia.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-10 py-5 rounded-xl font-semibold">Discuss Your Kitchen or Cafe</a>
+  </div>
+</section>
+
+<section class="max-w-7xl mx-auto px-6 py-24">
+  <div class="max-w-3xl mb-20">
+    <h2 class="text-3xl font-bold mb-6">Commercial-Grade Hospitality Containers</h2>
+    <p class="text-lg">
+      Our container kitchens and cafes are designed specifically for commercial food service environments. Unlike pop-up or novelty builds, our focus is on durability, hygiene, workflow efficiency and compliance with Australian food safety standards.
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-3 gap-12 mb-32">
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Food-Grade Design</h3>
+      <p>Layouts and finishes designed to support safe food preparation, cleaning and inspection requirements.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Compliance-Ready</h3>
+      <p>Designed to meet local council, health department and NCC requirements depending on location and use.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Built for Daily Operation</h3>
+      <p>Engineered for regular commercial use, not short-term events or temporary installations.</p>
+    </div>
+  </div>
+
+  <div class="grid md:grid-cols-2 gap-16 items-center mb-32">
+    <div>
+      <h3 class="text-2xl font-bold mb-6">Typical Kitchen & Cafe Applications</h3>
+      <ul class="space-y-4 text-lg">
+        <li>• Container cafes and coffee shops</li>
+        <li>• Commercial kitchens and prep facilities</li>
+        <li>• Food trucks (container-based)</li>
+        <li>• Event and venue kitchens</li>
+        <li>• Permanent or relocatable food outlets</li>
+      </ul>
+      <p class="mt-6">
+        Units can be configured as standalone kitchens or combined with service and seating containers.
+      </p>
+    </div>
+    <div class="bg-slate-100 rounded-2xl p-10">
+      <h4 class="font-semibold mb-4">Common Inclusions</h4>
+      <ul class="space-y-3">
+        <li>• Stainless steel wall and bench finishes</li>
+        <li>• Commercial exhaust and ventilation</li>
+        <li>• Plumbing, grease management and drainage</li>
+        <li>• Electrical, lighting and equipment power</li>
+        <li>• Service windows, doors and servery openings</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="max-w-4xl mb-32">
+    <h3 class="text-2xl font-bold mb-6">Designed for Council Approval & Smooth Operation</h3>
+    <p class="text-lg mb-6">
+      We understand that hospitality projects are often approval-sensitive. Our approach considers council requirements, health inspections, fire safety and access from the outset — reducing delays and redesigns.
+    </p>
+    <p class="text-lg">
+      Whether the container is installed permanently or relocated over time, we design for longevity, ease of maintenance and consistent performance.
+    </p>
+  </div>
+</section>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-4xl mx-auto px-6 py-24 text-center">
+    <h2 class="text-3xl font-bold mb-6">Talk to a Container Kitchen & Cafe Specialist</h2>
+    <p class="text-lg text-slate-300 mb-10">
+      From initial concept through to compliant delivery, we can guide you through the design and build of a commercial container kitchen or cafe.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-10 py-5 rounded-xl font-semibold">Book a Consultation</a>
+  </div>
+</section>
+
+<footer class="border-t py-8 text-center text-sm text-slate-500">
+  © 2026 AUS Container Projects · Australia Wide
+</footer>
+</body>
+</html>
+
+
+<!-- FILE: landing-training-containers.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fire, Smoke & Working at Heights Training Containers Australia</title>
+  <meta name="description" content="Custom-built fire training, smoke simulation and working at heights containers for industrial, emergency and safety training across Australia." />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900">
+
+<header class="border-b">
+  <div class="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
+    <div class="text-2xl font-bold">AUS Container Projects</div>
+    <nav class="space-x-8 text-sm font-semibold">
+      <a href="index.html">Home</a>
+      <a href="solutions.html">Solutions</a>
+      <a href="process.html">Process</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-7xl mx-auto px-6 py-28">
+    <h1 class="text-5xl font-bold max-w-4xl leading-tight mb-6">
+      Fire, Smoke & Working at Heights Training Containers
+    </h1>
+    <p class="text-xl max-w-3xl text-slate-300 mb-10">
+      We design and fabricate specialised container-based training environments for fire response, smoke simulation and working at heights — engineered for safety, realism and repeat use across Australia.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-10 py-5 rounded-xl font-semibold">Discuss Your Training Facility</a>
+  </div>
+</section>
+
+<section class="max-w-7xl mx-auto px-6 py-24">
+  <div class="max-w-3xl mb-20">
+    <h2 class="text-3xl font-bold mb-6">Purpose-Built Training Infrastructure</h2>
+    <p class="text-lg">
+      Training environments place unique demands on container structures. Our training containers are engineered to support controlled hazards, repeated use and strict safety protocols — not adapted from standard containers.
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-3 gap-12 mb-32">
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Safety-First Engineering</h3>
+      <p>Designed with controlled environments, safe access points and robust structural modifications.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Realistic Training Scenarios</h3>
+      <p>Configurable layouts to simulate real-world conditions without compromising safety.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Built for Repeated Use</h3>
+      <p>Heavy-duty construction suitable for ongoing training programs and high utilisation.</p>
+    </div>
+  </div>
+
+  <div class="grid md:grid-cols-2 gap-16 items-center mb-32">
+    <div>
+      <h3 class="text-2xl font-bold mb-6">Training Applications</h3>
+      <ul class="space-y-4 text-lg">
+        <li>• Fire response and fire behaviour training</li>
+        <li>• Smoke simulation and confined space scenarios</li>
+        <li>• Working at heights and fall protection training</li>
+        <li>• Emergency response and evacuation drills</li>
+        <li>• Industrial and site safety training</li>
+      </ul>
+      <p class="mt-6">
+        Units can be designed as standalone modules or combined into larger training facilities.
+      </p>
+    </div>
+    <div class="bg-slate-100 rounded-2xl p-10">
+      <h4 class="font-semibold mb-4">Design Features</h4>
+      <ul class="space-y-3">
+        <li>• Multi-level platforms and ladders</li>
+        <li>• Anchor points and safety systems</li>
+        <li>• Heat-resistant linings and finishes</li>
+        <li>• Ventilation and smoke management</li>
+        <li>• Observation points and instructor control areas</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="max-w-4xl mb-32">
+    <h3 class="text-2xl font-bold mb-6">Designed for Training Providers & Industry</h3>
+    <p class="text-lg mb-6">
+      We work with registered training organisations (RTOs), emergency services, mining and industrial operators to deliver training facilities that align with operational requirements and safety frameworks.
+    </p>
+    <p class="text-lg">
+      From initial concept through to fabrication and delivery, our approach prioritises safety, compliance and long-term usability.
+    </p>
+  </div>
+</section>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-4xl mx-auto px-6 py-24 text-center">
+    <h2 class="text-3xl font-bold mb-6">Speak With a Training Container Specialist</h2>
+    <p class="text-lg text-slate-300 mb-10">
+      Whether you require a single training module or a multi-container training facility, we can help design a solution tailored to your training outcomes.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-10 py-5 rounded-xl font-semibold">Book a Consultation</a>
+  </div>
+</section>
+
+<footer class="border-t py-8 text-center text-sm text-slate-500">
+  © 2026 AUS Container Projects · Australia Wide
+</footer>
+</body>
+</html>
+
+
+<!-- FILE: index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CCP | Purpose-Built Container Solutions Australia</title>
+  <meta name="description" content="CCP delivers purpose-built container solutions designed and fabricated to brief for residential, commercial and industrial applications across Australia." />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-900">
+
+<header class="border-b">
+  <div class="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
+    <div class="text-2xl font-bold">CCP</div>
+    <nav class="space-x-8 text-sm font-semibold">
+      <a href="index.html">Home</a>
+      <a href="solutions.html">Solutions</a>
+      <a href="process.html">Process</a>
+      <a href="faq.html">FAQ</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-7xl mx-auto px-6 py-32">
+    <h1 class="text-6xl font-bold max-w-4xl leading-tight mb-8">CCP</h1>
+    <p class="text-2xl max-w-3xl text-slate-300 mb-12">
+      Purpose-built container solutions designed and fabricated to brief for residential, commercial and industrial applications across Australia.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-12 py-6 rounded-xl font-semibold">Discuss Your Project</a>
+  </div>
+</section>
+
+<section class="max-w-7xl mx-auto px-6 py-28">
+  <div class="max-w-3xl mb-20">
+    <h2 class="text-3xl font-bold mb-6">One Stop Container Solutions</h2>
+    <p class="text-lg">
+      CCP delivers custom container projects from initial concept through to fabrication and delivery. We work across a wide range of sectors, providing tailored solutions rather than standard products or temporary units.
+    </p>
+  </div>
+
+  <div class="grid md:grid-cols-3 gap-12">
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Built to Brief</h3>
+      <p>Every project is designed around the intended use, site conditions and operational requirements.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">End-to-End Delivery</h3>
+      <p>Design, engineering, fabrication and coordination managed under one roof.</p>
+    </div>
+    <div>
+      <h3 class="font-semibold text-xl mb-4">Designed for Longevity</h3>
+      <p>Our containers are engineered for long-term use, repeat access and real-world conditions.</p>
+    </div>
+  </div>
+</section>
+
+<section class="bg-slate-100">
+  <div class="max-w-7xl mx-auto px-6 py-28">
+    <h2 class="text-3xl font-bold mb-16">Our Solutions</h2>
+    <div class="grid md:grid-cols-2 gap-12">
+      <a href="industrial.html" class="block bg-white p-10 rounded-2xl shadow">
+        <h3 class="text-xl font-semibold mb-3">Industrial Container Solutions</h3>
+        <p>Custom facilities designed for workshops, plant rooms, operational hubs and specialised environments.</p>
+      </a>
+      <a href="mining.html" class="block bg-white p-10 rounded-2xl shadow">
+        <h3 class="text-xl font-semibold mb-3">Mining & Remote Site Containers</h3>
+        <p>Robust container solutions engineered for remote locations and demanding conditions.</p>
+      </a>
+      <a href="site-offices.html" class="block bg-white p-10 rounded-2xl shadow">
+        <h3 class="text-xl font-semibold mb-3">Container Site Offices</h3>
+        <p>Professional, functional site offices designed for construction and infrastructure projects.</p>
+      </a>
+      <a href="training.html" class="block bg-white p-10 rounded-2xl shadow">
+        <h3 class="text-xl font-semibold mb-3">Training & Safety Containers</h3>
+        <p>Purpose-built environments for fire, smoke, working at heights and safety training.</p>
+      </a>
+      <a href="kitchens.html" class="block bg-white p-10 rounded-2xl shadow md:col-span-2">
+        <h3 class="text-xl font-semibold mb-3">Container Kitchens & Cafes</h3>
+        <p>Commercial-grade kitchens and cafes designed for daily operation and regulatory approval.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="max-w-7xl mx-auto px-6 py-28">
+  <div class="grid md:grid-cols-2 gap-16 items-center">
+    <div>
+      <h2 class="text-3xl font-bold mb-6">How CCP Works</h2>
+      <p class="text-lg mb-6">
+        Our process is designed to reduce risk, improve outcomes and deliver container solutions that perform as intended.
+      </p>
+      <ol class="space-y-3 text-lg list-decimal list-inside">
+        <li>Brief and feasibility</li>
+        <li>Design and engineering</li>
+        <li>Fabrication and quality control</li>
+        <li>Delivery and installation</li>
+      </ol>
+      <a href="process.html" class="inline-block mt-8 font-semibold text-blue-700">View Our Process →</a>
+    </div>
+    <div class="bg-slate-900 text-white rounded-2xl p-12">
+      <h3 class="text-2xl font-bold mb-4">Experience You Can Rely On</h3>
+      <p class="text-lg text-slate-300">
+        With over a decade of experience delivering container modifications across Australia, CCP understands the importance of compliance, logistics and long-term performance.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="bg-slate-900 text-white">
+  <div class="max-w-4xl mx-auto px-6 py-24 text-center">
+    <h2 class="text-3xl font-bold mb-6">Start a Conversation</h2>
+    <p class="text-lg text-slate-300 mb-10">
+      Whether you have a defined brief or an early-stage concept, we can help shape and deliver a container solution that fits your requirements.
+    </p>
+    <a href="contact.html" class="inline-block bg-blue-700 px-12 py-6 rounded-xl font-semibold">Contact CCP</a>
+  </div>
+</section>
+
+<footer class="border-t py-8 text-center text-sm text-slate-500">
+  © 2026 CCP — Collinson Container Projects · Australia Wide
+</footer>
+</body>
+</html>
